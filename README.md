@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Cesar Moreta 👋
 
-<!--
-**Lil-Crypto-rgb/Lil-Crypto-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm a Computer Science Engineer  
+- 🇩🇴 I'm from Dominican Republic
 
-Here are some ideas to get you started:
+## My Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+![](https://skillicons.dev/icons?i=c,cpp,java,python,kotlin&perline=5)
+
+### Backend:
+![](https://skillicons.dev/icons?i=spring,gradle)
+
+### Database:
+![](https://skillicons.dev/icons?i=mysql,redis,mongodb)
+
+### Containerization:
+![](https://skillicons.dev/icons?i=docker)
+
+### Message Queue:
+![](https://skillicons.dev/icons?i=rabbitmq,activemq)
+
+### Administration:
+![](https://skillicons.dev/icons?i=linux)
